@@ -6,6 +6,10 @@ This project is a **React + Tailwind CSS implementation** of a dashboard layout 
 
 * ✅ Header (Navbar)
 * ✅ Sidebar Navigation
+* ✅ KnowledgeBase
+* ✅ Button
+  
+  
 
 The UI is built based on a Figma design with attention to spacing, colors, and layout.
 
@@ -46,6 +50,8 @@ src/
 ├── components/
 │   ├── Navbar.jsx
 │   └── Sidebar.jsx
+    └── KnowlwdgeBase.jsx
+    └── Button.jsx
 │
 ├── App.jsx
 └── main.jsx
