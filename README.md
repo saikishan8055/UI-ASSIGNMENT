@@ -63,8 +63,9 @@ npm run dev
 ---
 
 ## 📸 UI Preview
+<img width="937" height="410" alt="image" src="https://github.com/user-attachments/assets/1d5e8f62-3e87-43e5-ba75-ec886c3780db" />
+<img width="954" height="411" alt="image" src="https://github.com/user-attachments/assets/aa91b93e-3c2c-4408-8d82-d3a1771af4ce" />
 
-<img width="956" height="359" alt="image" src="https://github.com/user-attachments/assets/d103afce-320f-40cf-b50c-00dcb9130f31" />
 
 
 ---
