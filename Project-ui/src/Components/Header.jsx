@@ -15,7 +15,7 @@ const Header = () => {
           <span className="font-semibold text-lg tracking-wide">Worcspace</span>
         </div>
 
-        <div className="flex items-center gap-1 bg-white/10 px-3 py-1.5 rounded-md text-sm cursor-pointer hover:bg-white/20 transition">
+        <div className="flex items-center gap-1 bg-gradient-to-r from-indigo-500 to-purple-500 px-3 py-1.5 rounded-md text-sm cursor-pointer hover:bg-white/20 transition">
           Workspace 1
           <ChevronDown size={14} className="text-gray-300" />
         </div>
@@ -52,12 +52,14 @@ const Header = () => {
       <div className="flex items-center gap-5">
         <Bell size={18} className="text-gray-200 cursor-pointer" />
 
-        <div
-          className="w-9 h-9 rounded-full bg-white/20
-                     flex items-center justify-center font-medium text-sm"
-        >
-          GK
-        </div>
+<div
+  className="w-9 h-9 rounded-full 
+               bg-gradient-to-r from-indigo-500 to-purple-500
+             flex items-center justify-center 
+             font-medium text-sm text-white"
+>
+  GK
+</div>
       </div>
     </div>
   );
